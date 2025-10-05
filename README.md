@@ -102,6 +102,6 @@ All paths are relative, so the website will function correctly without a local s
 ## 👨‍💻 Author
 **Gideon Thuku**  
 Front-End Developer | Disability Inclusion Advocate  
-🌍 [Portfolio](https://gideonthuku.vercel.app) | 💼 [GitHub](https://github.com/GideonThuku)
+ 💼 [GitHub](https://github.com/GideonThuku)
 
 ---
