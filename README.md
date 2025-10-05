@@ -1,6 +1,6 @@
 # 🦁 Little Lions Academy Website
 
-This project is a **multi-page, responsive website** for **"Little Lions Academy,"** a fictional preschool based in Nairobi, Kenya. It was developed as the **final assignment for a Power Learn Project Africa web development course**, demonstrating a comprehensive understanding of front-end development — from planning and coding to deployment.
+This project is a **multi-page, responsive website** for **"Little Lions Academy,"** a fictional preschool based in Nairobi, Kenya. It was developed as the **final assignment for a Power Learn Project Africa web development course**, demonstrating a comprehensive understanding of front-end development,  from planning and coding to deployment.
 
 ---
 
@@ -21,7 +21,7 @@ The site serves as the **primary online presence** for the preschool, designed t
 ## ✨ Key Features
 
 ### 🧩 Fully Responsive Design
-- Seamlessly adapts to all screen sizes — from mobile phones to desktops.  
+- Seamlessly adapts to all screen sizes, from mobile phones to desktops.  
 - Uses **CSS Flexbox**, **Grid**, and **media queries** for optimal layout responsiveness.
 
 ### 🗂️ Multi-Page Architecture
@@ -75,7 +75,7 @@ The site includes four main pages, creating a clear and intuitive user journey:
 |-- README.md
 ```
 
-This structure separates content, style, and functionality — ensuring maintainability and clarity.
+This structure separates content, style, and functionality, ensuring maintainability and clarity.
 
 ---
 
