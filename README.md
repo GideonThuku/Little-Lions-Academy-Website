@@ -1,6 +1,6 @@
 # 🦁 Little Lions Academy Website
 
-This project is a **multi-page, responsive website** for **"Little Lions Academy,"** a fictional preschool based in Nairobi, Kenya. It was developed as the **final assignment for a web technologies course**, demonstrating a comprehensive understanding of front-end development — from planning and coding to deployment.
+This project is a **multi-page, responsive website** for **"Little Lions Academy,"** a fictional preschool based in Nairobi, Kenya. It was developed as the **final assignment for a Power Learn Project Africa web development course**, demonstrating a comprehensive understanding of front-end development — from planning and coding to deployment.
 
 ---
 
