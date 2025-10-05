@@ -1,90 +1,114 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🦁 Little Lions Academy Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+This project is a **multi-page, responsive website** for **"Little Lions Academy,"** a fictional preschool based in Nairobi, Kenya. It was developed as the **final assignment for a web technologies course**, demonstrating a comprehensive understanding of front-end development — from planning and coding to deployment.
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 🚀 Live Website
 
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+**🌐 View Online:** [https://little-lions-academy-website.vercel.app/](https://little-lions-academy-website.vercel.app/)  
+**💻 GitHub Repository:** [https://github.com/GideonThuku/Little-Lions-Academy-Website](https://github.com/GideonThuku/Little-Lions-Academy-Website)
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 📘 Project Overview
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+The goal was to conceptualize, build, and deploy a production-worthy website that is engaging, informative, and user-friendly.  
+The site serves as the **primary online presence** for the preschool, designed to attract prospective parents by showcasing its **philosophy, programs, and staff** in a visually appealing manner.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## ✨ Key Features
 
-Before deployment, refactor your project to follow production-friendly practices:
+### 🧩 Fully Responsive Design
+- Seamlessly adapts to all screen sizes — from mobile phones to desktops.  
+- Uses **CSS Flexbox**, **Grid**, and **media queries** for optimal layout responsiveness.
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+### 🗂️ Multi-Page Architecture
+The site includes four main pages, creating a clear and intuitive user journey:
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+| Page | Description |
+|------|--------------|
+| 🏠 **Home** | A welcoming landing page with a hero section and featured programs. |
+| 🏫 **About Us** | Details the school's mission, values, and introduces the team. |
+| 📚 **Courses** | Provides an overview of the preschool’s programs. |
+| ✉️ **Contact** | Features an interactive form and school location details. |
 
----
+### 🧠 Interactive Elements
+- **JavaScript-powered hamburger menu** for mobile screens.  
+- **Client-side form validation** ensures all contact fields are filled out correctly.
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+### 🎨 Consistent & Modern UI
+- Cohesive header, footer, and color palette across all pages.  
+- Subtle animations and hover effects provide an engaging, polished feel.
 
 ---
 
-## Deliverables
+## 🛠️ Technical Implementation
 
-1. A GitHub repository containing:
+### **Technologies Used**
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+- **HTML5** – Structured using semantic elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
+- **CSS3** – For styling and layout:
+  - CSS Variables for color theming.
+  - Flexbox & Grid for responsive design.
+  - Transitions & hover effects for smooth interactivity.
+- **JavaScript (ES6)** – DOM manipulation for dynamic and interactive features.
+- **Google Fonts** – “Nunito” and “Lato” for friendly, readable typography.
 
 ---
 
-## Outcome
+## 📁 Code Organization
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+```
+/
+|-- index.html
+|-- about.html
+|-- courses.html
+|-- contact.html
+|-- /css/
+|   |-- style.css
+|-- /js/
+|   |-- script.js
+|-- /images/
+|   |-- (all image assets)
+|-- README.md
+```
+
+This structure separates content, style, and functionality — ensuring maintainability and clarity.
+
+---
+
+## 💻 How to Run Locally
+
+To view or edit the project on your computer:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/GideonThuku/Little-Lions-Academy-Website.git
+```
+
+### 2️⃣ Navigate to the Project Directory
+```bash
+cd Little-Lions-Academy-Website
+```
+
+### 3️⃣ Open the Project
+Open the `index.html` file in your web browser.  
+All paths are relative, so the website will function correctly without a local server.
+
+---
+
+## 👨‍💻 Author
+**Gideon Thuku**  
+Front-End Developer | Disability Inclusion Advocate  
+🌍 [Portfolio](https://gideonthuku.vercel.app) | 💼 [GitHub](https://github.com/GideonThuku)
+
+---
+
+## 📜 License
+This project is released under the [MIT License](LICENSE).
+
+---
+
+**⭐ If you like this project, please consider giving it a star on GitHub!**
