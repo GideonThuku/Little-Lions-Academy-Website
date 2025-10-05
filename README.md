@@ -105,10 +105,3 @@ Front-End Developer | Disability Inclusion Advocate
 🌍 [Portfolio](https://gideonthuku.vercel.app) | 💼 [GitHub](https://github.com/GideonThuku)
 
 ---
-
-## 📜 License
-This project is released under the [MIT License](LICENSE).
-
----
-
-**⭐ If you like this project, please consider giving it a star on GitHub!**
